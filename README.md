@@ -9,6 +9,6 @@ Learn Java Notes from Beginner to Advanced with Java 8.
 
 ## TODOS
 - [x] Java Sytax Fundamental
-- [ ] Java Sytax OO
+- [x] Java Sytax Object Oriented
 - [ ] Java Sytax Advanced
 - [ ] Java Sytax Others
