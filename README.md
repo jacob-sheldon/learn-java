@@ -10,5 +10,12 @@ Learn Java Notes from Beginner to Advanced with Java 8.
 ## TODOS
 - [x] Java Sytax Fundamental
 - [x] Java Sytax Object Oriented
-- [ ] Java Sytax Advanced
-- [ ] Java Sytax Others
+- [x] Java Sytax Advanced
+- [x] Java Sytax Others
+- [ ] Spring
+- [ ] Mybatis | Hibernates
+- [ ] Spring Boot
+- [ ] Message Queue
+- [ ] gRPC | thrift | dubbo
+- [ ] mysql | postgreSQL
+- [ ] docker | kubernets
