@@ -12,6 +12,8 @@ Learn Java Notes from Beginner to Advanced with Java 8.
 - [x] Java Sytax Object Oriented
 - [x] Java Sytax Advanced
 - [x] Java Sytax Others
+- [x] Java Tools - Ant, Ivy, Maven, Gradle
+- [x] Unit Test - JUnit
 - [ ] Spring
 - [ ] Mybatis | Hibernates
 - [ ] Spring Boot
