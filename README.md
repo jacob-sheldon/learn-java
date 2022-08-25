@@ -9,15 +9,14 @@ Learn Java Notes from Beginner to Advanced with Java 8.
 
 ## TODOS
 - [x] Java Sytax Fundamental
-- [x] Java Sytax Object Oriented
-- [x] Java Sytax Advanced
-- [x] Java Sytax Others
+- [x] Java Syntax Object Oriented
+- [x] Java Syntax Advanced
+- [x] Java Syntax Others
 - [x] Java Tools - Ant, Ivy, Maven, Gradle
 - [x] Unit Test - JUnit
-- [ ] Spring
+- [x] Spring Boot
 - [ ] Mybatis | Hibernates
-- [ ] Spring Boot
-- [ ] Message Queue
-- [ ] gRPC | thrift | dubbo
-- [ ] mysql | postgreSQL
-- [ ] docker | kubernets
+- [ ] Message Queue | ActiveMQ
+- [ ] gRPC | thrift | Dubbo
+- [ ] docker | Kubernetes
+- [x] JVM
