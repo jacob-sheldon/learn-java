@@ -16,4 +16,7 @@
 - **JMX** - Java Management Extension
 - **JAXP** - Java for XML Processing
 - **JPQL** - Java Persistence Query Language
-
+- **JMS** - Java Message Service
+- **Cluster** - A group of systems in which a distributed application is running is called a Cluster
+- **Node** - each machine running in a cluster is called a Node
+- **gRPC** - Google Remote Procedure Call

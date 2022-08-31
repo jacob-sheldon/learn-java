@@ -13,10 +13,20 @@ Learn Java Notes from Beginner to Advanced with Java 8.
 - [x] Java Syntax Advanced
 - [x] Java Syntax Others
 - [x] Java Tools - Ant, Ivy, Maven, Gradle
+- [x] Servlet
 - [x] Unit Test - JUnit
+- [x] Spring Framework
 - [x] Spring Boot
-- [ ] Mybatis | Hibernates
-- [ ] Message Queue | ActiveMQ
-- [ ] gRPC | thrift | Dubbo
-- [ ] docker | Kubernetes
-- [x] JVM
+- [x] Kafka
+- [x] Zookeeper
+- [ ] Mybatis
+- [ ] ~~RabbitMQ~~
+- [x] gRPC
+- [ ] Docker
+- [ ] Kubernetes
+- [ ] MySQL
+- [ ] Redis
+- [ ] JVM Architecture
+
+## Youtube Tutorial Video
+

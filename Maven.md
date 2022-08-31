@@ -76,10 +76,6 @@ SNAPSHOT is a special version that *indicates a current development copy.* Unlik
 
 **Project Document**:`mvn site`
 
-
-
-
-
 ## Reference
 
 https://www.tutorialspoint.com/maven/maven_overview.htm
